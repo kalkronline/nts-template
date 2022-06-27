@@ -2,7 +2,7 @@
 template for node typescript proejcts
 
 # insturctions
-create new repository out of this one
-clone new repo onto local
-run `npm i`
-edit app.ts to verify it worked
+1) create new repository out of this one
+2) clone new repo onto local device
+3) run `npm i`
+4) edit app.ts to verify it worked
