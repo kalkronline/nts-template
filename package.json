@@ -1,0 +1,19 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "A generic skeleton typescript node app",
+  "main": "./src/app.ts",
+  "type": "module",
+  "scripts": {
+    "start": "npx nodemon ./src/app.ts --ext '*' "
+  },
+  "author": "kale riley",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.18",
+    "ts-node": "^10.8.1"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
